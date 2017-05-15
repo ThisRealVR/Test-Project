@@ -257,7 +257,7 @@ MonoBehaviour:
   m_MinSize: {x: 277, y: 292}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 112
+  controlID: 97
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -413,8 +413,8 @@ MonoBehaviour:
     height: 490
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 42060000
-    m_LastClickedID: 0
+    m_SelectedIDs: 7c250000
+    m_LastClickedID: 9596
     m_ExpandedIDs: cafbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -554,7 +554,7 @@ MonoBehaviour:
   m_StartGridSize: 70
   m_LastFolders: []
   m_LastFoldersGridSize: 70
-  m_LastProjectPath: "D:\\\u0130\u015F\\_Denemeler\\Git_test"
+  m_LastProjectPath: C:\Users\PC\Documents\GitHub\Test-Project\Git_test
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 19}
